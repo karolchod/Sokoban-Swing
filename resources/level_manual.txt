@@ -1,0 +1,15 @@
+This is an example of making file with new game level.
+Levels are stored in 'poziom x.txt' files, where x is level number.
+Total number of levels must be changed also in 'config.properties' file.
+
+Square definition explaination:
+0-floor
+1-wall 
+2-player start position
+3-box position 
+4-box destination
+5-door activator
+6-door 
+7-square with bonus
+
+Levels are rotated 90 degrees than what is in files, but it does not affect game experience.
