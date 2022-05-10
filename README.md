@@ -7,10 +7,10 @@ Project finished in January 2021.
 * [Setup](#setup)
 
 ## General info
-Sokoban game clone made using Java 11. 
-Project made as a part of "Event-driven programming" course at Warsaw University of Technology.
-User manual with UI screenshots is available in pdf file.
-Code documentation can be generated using javadoc.
+Sokoban game clone made using Java 11.  
+Project made as a part of "Event-driven programming" course at Warsaw University of Technology.  
+User manual with UI screenshots is available in pdf file.  
+Code documentation can be generated using javadoc.  
 
 ## Technologies
 Project is created with:
